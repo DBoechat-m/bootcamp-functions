@@ -1,6 +1,6 @@
 # Configuration file for dev environment. Will apply to all functions, but will be overwritten by
 # configurations files in specific function folder.
-
+#
 #src:002:opcua:ds
 data_set_id: 2192058912008497
 tenant_id: 16e3985b-ebe8-4e24-9da4-933e21a9fc81
